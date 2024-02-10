@@ -1,0 +1,2 @@
+The widget input and outputs are very important, they can be handled using Tkinter variables
+Button types are: Normal Buttons, Check Buttons, 
