@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import ttk, scrolledtext
+from tkinter import ttk
 
 window = tk.Tk()
 window.title("Tabs")
